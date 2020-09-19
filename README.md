@@ -25,3 +25,7 @@ This template is created using Python 3.8, and includes the following features.
 - [Bandit](https://pypi.org/project/bandit/): tool designed to find common security issues in Python code.
 
 - [Fire](https://github.com/google/python-fire): library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+
+## Credits
+
+This template was based on [cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage).
