@@ -10,7 +10,7 @@ Install the Cookiecutter if you haven't installed on your computer.
 
 Generate your Python package:
 
-    cookiecutter https://github.com/brenocosta0901/cookiecutter-python
+    cookiecutter https://github.com/brenocosta0901/cookiecutter-python-package
 
 ## Features
 
