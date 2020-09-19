@@ -1,0 +1,11 @@
+{
+  "author_name": "My name",
+  "author_email": "My e-mail",
+  "project_name": "My Project",
+  "project_directory": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "This is my project",
+  "version": "0.1.0",
+  "command_line_interface": ["No command-line", "Fire"],
+  "open_source_license": ["Not open source", "MIT license", "BSD license", "ISC license", "Apache Software License 2.0", "GNU General Public License v3"]
+}
